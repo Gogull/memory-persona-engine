@@ -145,7 +145,7 @@ def apply_persona(neutral_reply: str, persona: str, memory: Dict):
 # ==============================
 # STREAMLIT UI
 # ==============================
-st.title("🧠 Memory + Personality Engine (FILE-BASED | STABLE JSON)")
+st.title("🧠 Memory + Personality Engine ")
 
 # ========================================
 # MEMORY EXTRACTION SECTION
